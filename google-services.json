@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889975265300",
+    "firebase_url": "https://ottsample-2f03b.firebaseio.com",
+    "project_id": "ottsample-2f03b",
+    "storage_bucket": "ottsample-2f03b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889975265300:android:036ffc0d880ce17b172f01",
+        "android_client_info": {
+          "package_name": "com.somanath.example.ottsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889975265300-mimaj7m8khc6q2e9bceae899nkbkmio3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK--z0hOOBv4AyyqM9VDl3_xOZJMQeLO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889975265300-mimaj7m8khc6q2e9bceae899nkbkmio3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
